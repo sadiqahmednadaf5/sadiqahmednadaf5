@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Ghazi Khan, a passionate Software Engineer dedicated to crafting digital solutions with expertise and innovation
+## Hi there! 👋 I'm Sadiq, a passionate Software Engineer dedicated to crafting digital solutions with expertise and innovation
 
 <!--
 **sadiqahmednadaf5/sadiqahmednadaf5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
