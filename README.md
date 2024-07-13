@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Sadiq, an enthusiast currently deeply engaged in developing my projects
+## Hi there! 👋 I'm Sadiq, an enthusiast currently immersed in refining my projects and exploring new avenues in tech
 
 <!--
 **sadiqahmednadaf5/sadiqahmednadaf5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
