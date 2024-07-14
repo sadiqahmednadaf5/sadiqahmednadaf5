@@ -1,6 +1,5 @@
 ## Hi there! 👋 I'm Sadiq, an enthusiast currently immersed in refining my projects and exploring new avenues in tech
 
-# Hi there, I'm Akshit Garg! 👋
 
 I'm a Full Stack Developer with a passion for building engaging and innovative web applications. I love working on both the frontend and backend, bringing ideas to life with a blend of creativity and technical expertise.
 
