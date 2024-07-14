@@ -5,7 +5,7 @@ I'm a Full Stack Developer with a passion for building engaging and innovative w
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on full-stack projects using the MERN stack.
+- 🔭 I’m currently working on full-stack projects.
 - 🌱 I’m constantly learning new technologies and improving my skills.
 - 👯 I’m looking to collaborate on exciting full-stack projects.
 - 🤔 I’m looking for help with open-source contributions.
