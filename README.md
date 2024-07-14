@@ -9,8 +9,8 @@ I'm a Full Stack Developer with a passion for building engaging and innovative w
 - 🌱 I’m constantly learning new technologies and improving my skills.
 - 👯 I’m looking to collaborate on exciting full-stack projects.
 - 🤔 I’m looking for help with open-source contributions.
-- 💬 Ask me about web development, JavaScript, and anything tech-related.
-- 📫 How to reach me: [Email](mailto:akshit@example.com) | [LinkedIn](https://www.linkedin.com/in/akshit-garg/)
+- 💬 Ask me about web development, C++, JavaScript, React, Nextjs, Node.js, AWS, and any anything tech-related general software development questions.
+- 📫 How to reach me: [E](mailto:sadiqahmednadaf5@gmail.com).
 - 🌟 Fun fact:  I'm a coding aficionado who starts the day with the perfect cup of coffee for that extra spark.
 
 
