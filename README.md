@@ -1,7 +1,7 @@
-## Hi there! 👋 I'm Sadiq, an enthusiast currently immersed in refining my projects and exploring new avenues in tech
+## Hi there! 👋 I'm Sadiq, exploring new avenues in tech
 
 
-I'm a Full Stack Developer with a passion for building engaging and innovative web applications. I love working on both the frontend and backend, bringing ideas to life with a blend of creativity and technical expertise.
+I'm a Full Stack Developer with a passion for building engaging and innovative web applications.bringing ideas to life with a blend of creativity and technical expertise.
 
 # 💫 About Me:
 
@@ -9,7 +9,7 @@ I'm a Full Stack Developer with a passion for building engaging and innovative w
 - 🌱 I’m constantly learning new technologies and improving my skills.
 - 👯 I’m looking to collaborate on exciting full-stack projects.
 - 🤔 I’m looking for help with open-source contributions.
-- 💬 Ask me about web development, C++, JavaScript, React, Nextjs, Node.js, AWS, and any anything tech-related general software development questions.
+- 💬 Ask me about : C++, JavaScript, React, Nextjs, Node.js, AWS, and any anything tech-related general software development questions.
 - 📫 How to reach me: [E](mailto:sadiqahmednadaf5@gmail.com).
 - 🌟 Fun fact:  I'm a coding aficionado who starts the day with the perfect cup of coffee for that extra spark.
 
