@@ -1,7 +1,8 @@
 ## Hi there! 👋 I'm Sadiq, exploring new avenues in tech
 
 
-I'm a Full Stack Developer with a passion for building engaging and innovative web applications.bringing ideas to life with a blend of creativity and technical expertise.
+I'm a Full Stack Developer passionate about building applications & discussing new product ideas and bringing ideas to life with a blend of creativity and technical expertise.
+ I love building applications & discussing new product ideas.
 
 # 💫 About Me:
 
