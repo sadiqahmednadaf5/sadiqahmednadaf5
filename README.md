@@ -3,7 +3,7 @@
 
 I'm a Full Stack Developer with a passion for building engaging and innovative web applications. I love working on both the frontend and backend, bringing ideas to life with a blend of creativity and technical expertise.
 
-## 🚀 About Me
+# 💫 About Me:
 
 - 🔭 I’m currently working on full-stack projects using the MERN stack.
 - 🌱 I’m constantly learning new technologies and improving my skills.
