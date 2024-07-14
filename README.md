@@ -13,6 +13,7 @@ I'm a Full Stack Developer with a passion for building engaging and innovative w
 - 📫 How to reach me: [Email](mailto:akshit@example.com) | [LinkedIn](https://www.linkedin.com/in/akshit-garg/)
 - 🌟 Fun fact:  I'm a coding aficionado who starts the day with the perfect cup of coffee for that extra spark.
 
+
 ## 🌐 Socials:
 ## 🤝 Let's Connect
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ezSnippet) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ezSnippet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ezSnippet) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20331641) 
@@ -23,10 +24,7 @@ I'm a Full Stack Developer with a passion for building engaging and innovative w
 
 
 ## 📈 GitHub Stats
-
-![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshitgarg&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitgarg&layout=compact&theme=radical)
-
-
-
+![](https://github-readme-stats.vercel.app/api?username=sadiqahmednadaf5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sadiqahmednadaf5&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqahmednadaf5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
