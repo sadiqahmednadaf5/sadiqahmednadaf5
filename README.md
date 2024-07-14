@@ -2,7 +2,7 @@
 
 
 I'm a Full Stack Developer passionate about building applications & discussing new product ideas and bringing ideas to life with a blend of creativity and technical expertise.
- I love building applications & discussing new product ideas.
+
 
 # 💫 About Me:
 
