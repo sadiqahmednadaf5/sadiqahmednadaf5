@@ -11,8 +11,11 @@ I'm a Full Stack Developer with a passion for building engaging and innovative w
 - 🤔 I’m looking for help with open-source contributions.
 - 💬 Ask me about web development, JavaScript, and anything tech-related.
 - 📫 How to reach me: [Email](mailto:akshit@example.com) | [LinkedIn](https://www.linkedin.com/in/akshit-garg/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving coding challenges on LeetCode and exploring new tech stacks.
+- 🌟 Fun fact:  I'm a coding aficionado who starts the day with the perfect cup of coffee for that extra spark.
+
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ezSnippet) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ezSnippet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ezSnippet) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20331641) 
+
 
 ## 🛠 Tech Stack
 
