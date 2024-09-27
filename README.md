@@ -10,7 +10,7 @@ I'm a Full Stack Developer passionate about building applications & discussing n
 - 🌱 I’m constantly learning new technologies and improving my skills.
 - 👯 I’m looking to collaborate on exciting full-stack projects.
 - 🤔 I’m looking for help with open-source contributions.
-- 💬 Ask me about : C++, JavaScript, React, Nextjs, Node.js, AWS, and any anything tech-related general software development questions.
+- 💬 Ask me about : C++, JavaScript, Java, React, Nextjs, Node.js, AWS, and any anything tech-related general software development questions.
 - 📫 How to reach me: [Email](mailto:sadiqahmednadaf5@gmail.com).
 - 🌟 Fun fact:  I'm a coding aficionado who starts the day with the perfect cup of coffee for that extra spark.
 
