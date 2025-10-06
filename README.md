@@ -6,7 +6,7 @@ I'm a Full Stack Developer passionate about building applications & discussing n
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on full-stack projects.
+- 🔭 I’m currently open to work.
 - 🌱 I’m constantly learning new technologies and improving my skills.
 - 👯 I’m looking to collaborate on exciting full-stack projects.
 - 🤔 I’m looking for help with open-source contributions.
